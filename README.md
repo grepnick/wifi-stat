@@ -1,7 +1,7 @@
 # wifi-stat
-There is a serious lack of **free** high quality wireless monitoring programs. So, I created a tool for Windows, macOS, and Linux that shows monitor wireless link statistics "ifstat style". This is helpful for walking a site and seeing wireless signal, TX/RX speed, channel, band, and BSSID.
+There is a serious lack of **free** high quality wireless monitoring programs for troubleshooting in the field. So, I created a tool for Windows, macOS, and Linux that shows monitor wireless link statistics "ifstat style". This is helpful for walking a site and seeing wireless signal, TX/RX speed, channel, band, and BSSID -- especially in problem areas.
 
-Note: I am not a programmer and I have not found a way to programmatically tap into wi-fi APIs. This is just a hack that scrapes info from various tools to continuiously monitor link quality and performance.
+**Note:** I am not a programmer and I have not found a way to programmatically tap into wi-fi APIs. This is just a hack that scrapes info from various tools to continuiously monitor link quality and performance.
 
 ## Windows
 ![image](https://user-images.githubusercontent.com/124594745/224514445-d0ab4ce6-cc2d-4355-9632-81210468f8a3.png)
