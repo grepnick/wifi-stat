@@ -1,5 +1,8 @@
+#!/usr/bin/python3
 import subprocess
 import time
+
+print('\n\nWireless statistics (press CTRL+C to stop):\n\n')
 
 while True:
     # Run iwconfig command and capture its output
