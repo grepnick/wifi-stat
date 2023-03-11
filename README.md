@@ -15,4 +15,4 @@ There is a serious lack of **free** high quality wireless monitoring programs fo
 
 
 ## Linux (Python)
-![image](https://user-images.githubusercontent.com/124594745/224515639-703bbb12-4ba7-4031-af34-def2656e8b2b.png)
+![image](https://user-images.githubusercontent.com/124594745/224516113-3deb356f-4a19-4ce0-83b0-9d83d99ed375.png)
